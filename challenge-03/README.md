@@ -1,6 +1,6 @@
-// # Desafio da semana #3
+# Desafio da semana #3
 
-// ```js
+```js
 // Declarar uma variável qualquer, que receba um objeto vazio.
 var qualquer = new Object();
 
@@ -207,4 +207,4 @@ pessoa.apresentacao = function () {
 // Agora, apresente-se ;)
 pessoa.apresentacao();
 
-// ```
+```
